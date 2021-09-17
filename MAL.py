@@ -1,7 +1,3 @@
-import os 
-os.system(' pip install scapy ')
-os.system(' pip3 install scapy ')
-
 import scapy.all as scapy
 from os import system
 from sys import stdout
